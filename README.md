@@ -9,6 +9,10 @@ zu sein.
 Mein Ziel ist es, Wissen praxisnah zu vermitteln und junge Menschen für
 Fragen im Bereich Wirtschaft und Recht und für Informatik zu begeistern.
 
+Mein Informatikunterricht basiert auf der Programmiersprache Python. Für
+die Schülerinnen und Schüler werden die von ihnen zu bearbeitenden
+"Arbeitsblätter" als Jupyter Notebooks zur Verfügung gestellt.
+
 Für den Unterricht im obligatorischen Fach Informatik habe ich die
 folgenden Skripten erstellt: 
 
