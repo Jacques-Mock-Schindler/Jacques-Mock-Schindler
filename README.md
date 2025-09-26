@@ -11,9 +11,12 @@ Fragen im Bereich Wirtschaft und Recht und für Informatik zu begeistern.
 
 Mein Informatikunterricht basiert auf der Programmiersprache Python. Für
 die Schülerinnen und Schüler werden die von ihnen zu bearbeitenden
-"Arbeitsblätter" als Jupyter Notebooks zur Verfügung gestellt.
+"Arbeitsblätter" als Jupyter Notebooks zur Verfügung gestellt. Ich
+stelle meinen Schülerinnen und Schülern die Unterlagen als GitHub Pages
+zur Verfügung. Ich mache dies nicht zuletzt, um sie zu ermutigen, sich
+mit ihren Arbeiten ebenfalls zu exponieren.
 
-Für den Unterricht im obligatorischen Fach Informatik habe ich die
+Für den Unterricht im obligatorischen Fach Informatik habe ich bisher die
 folgenden Skripten erstellt: 
 
 * [Skript für eine Klasse mit Schwerpunktfach
@@ -39,7 +42,8 @@ folgenden Skripten erstellt:
 
   Dieses Skript wird wird von Anfang an als Quarto Website
   veröffentlicht. Da die Klasse erst im ersten von zwei Jahren
-  Informatikunterricht seht, ist das Skript zwar eine zweite Auflage,
+  Informatikunterricht steht, ist das Skript zwar eine zweite Auflage,
   aber inhaltlich noch nicht abgeschlossen.
 
-Ich freue mich über Austausch und Feedback zu meinen Lehrmaterialien!
+Ich freue mich über Austausch und Feedback zu meinen Lehrmaterialien
+(Issues und Pull Requests sind willkommen)!
