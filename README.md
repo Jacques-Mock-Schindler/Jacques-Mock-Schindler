@@ -1,49 +1,28 @@
-## Willkommen auf meinem GitHub Profil!
+# Willkommen auf meinem GitHub Profil!
 
 Mein Name ist Jacques Mock Schindler. Ich unterrichte Wirtschaft und
-Recht sowie Informatik an der [Kantonsschule Büelrain Winterthur](https://www.kbw.ch).
-Ausserdem habe ich das Privileg, Abteilungsleiter der
-[Informatikmittelschule an der Kantonsschule
-Büelrain](https://www.kbw.ch/portraet-ims)
-zu sein.
+Recht sowie Informatik an der
+[Kantonsschule Büelrain Winterthur (KBW)](https://www.kbw.ch) und
+bin Co-Abteilungsleiter der
+[Informatikmittelschule (IMS)](https://www.kbw.ch/portraet-ims).
+
 Mein Ziel ist es, Wissen praxisnah zu vermitteln und junge Menschen für
-Fragen im Bereich Wirtschaft und Recht und für Informatik zu begeistern.
+Wirtschaft und Recht sowie für Informatik zu begeistern. Dabei folge
+ich dem Prinzip des
+[Working Out Loud](https://de.wikipedia.org/wiki/Working_out_loud):
+Unterrichtsmaterialien werden öffentlich zugänglich gemacht — nicht
+nur als Ressource, sondern um Schülerinnen und Schüler zu ermutigen,
+ihre eigenen Arbeiten ebenfalls sichtbar zu machen.
 
-Mein Informatikunterricht basiert auf der Programmiersprache Python. Für
-die Schülerinnen und Schüler werden die von ihnen zu bearbeitenden
-"Arbeitsblätter" als Jupyter Notebooks zur Verfügung gestellt. Ich
-stelle meinen Schülerinnen und Schülern die Unterlagen als GitHub Pages
-zur Verfügung. Ich mache dies nicht zuletzt, um sie zu ermutigen, sich
-mit ihren Arbeiten ebenfalls zu exponieren.
+## Unterrichtsmaterialien
 
-Für den Unterricht im obligatorischen Fach Informatik habe ich bisher die
-folgenden Skripten erstellt: 
+Alle Unterrichtsmaterialien — für Informatik, Wirtschaft und Recht,
+Projektarbeit WR und Finanz- und Rechnungswesen — sind in der
+Organisation [SkriptenMk](https://github.com/SkriptenMk) zusammengefasst.
 
-* [Skript für eine Klasse mit Schwerpunktfach
-  PPP](https://skriptenmk.github.io/I_fP_24-28/intro.html)
+Die Materialien basieren auf Python und Jupyter Notebooks bzw. Quarto
+und werden als GitHub Pages veröffentlicht. Sie werden für jede Klasse
+individuell neu erstellt.
 
-  Dieses Skript wird als Jupyter Book veröffentlicht. Die Klasse
-  befindet sich in ihrem zweiten Jahr (von zwei Jahren)
-  Informatikunterricht. Daher ist das Skript inhaltlich noch nicht
-  abgeschlossen.
-
-* [Skript für eine Klasse mit Schwerpunktfach
-  WR](https://skriptenmk.github.io/I_eW_24-28/) 
-  
-  Dieses Skript wird als Quarto Website veröffentlicht. Die Klasse wird
-  seit Beginn des Schuljahres 2025/26 in Englisch unterrichtet
-  (Immersionsprogramm). Daher ist ein Teil des Skripts in Englischer
-  Sprache abgefasst. Die Klasse befindet sich ebenfalls im zweiten Jahr
-  (von zwei Jahren) Informatikunterricht. Daher ist auch dieses Skript
-  inhaltlich noch nicht abgeschlossen.
-
-* [Skript für eine Klasse mit Schwerpunktfach
-  WR](https://skriptenmk.github.io/I_eW_25-29/) 
-
-  Dieses Skript wird wird von Anfang an als Quarto Website
-  veröffentlicht. Da die Klasse erst im ersten von zwei Jahren
-  Informatikunterricht steht, ist das Skript zwar eine zweite Auflage,
-  aber inhaltlich noch nicht abgeschlossen.
-
-Ich freue mich über Austausch und Feedback zu meinen Lehrmaterialien
-(Issues und Pull Requests sind willkommen)!
+Feedback, Korrekturen und Verbesserungsvorschläge via Issues und Pull
+Requests sind ausdrücklich willkommen.
