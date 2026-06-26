@@ -9,7 +9,7 @@ bin Co-Abteilungsleiter der
 Mein Ziel ist es, Wissen praxisnah zu vermitteln und junge Menschen für
 Wirtschaft und Recht sowie für Informatik zu begeistern. Dabei folge
 ich dem Prinzip des
-[Working Out Loud](https://de.wikipedia.org/wiki/Working_out_loud):
+[Working Out Loud](https://asana.com/de/resources/working-out-loud):
 Unterrichtsmaterialien werden öffentlich zugänglich gemacht — nicht
 nur als Ressource, sondern um Schülerinnen und Schüler zu ermutigen,
 ihre eigenen Arbeiten ebenfalls sichtbar zu machen.
