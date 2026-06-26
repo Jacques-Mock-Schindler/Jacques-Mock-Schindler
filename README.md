@@ -22,7 +22,8 @@ Organisation [SkriptenMk](https://github.com/SkriptenMk) zusammengefasst.
 
 Die Materialien basieren auf Python und Jupyter Notebooks bzw. Quarto
 und werden als GitHub Pages veröffentlicht. Sie werden für jede Klasse
-individuell neu erstellt.
+individuell neu erstellt. So kann ich Feedback aufnehmen und 
+technologische oder gesellschaftliche Veränderungen einarbeiten.
 
 Feedback, Korrekturen und Verbesserungsvorschläge via Issues und Pull
 Requests sind ausdrücklich willkommen.
