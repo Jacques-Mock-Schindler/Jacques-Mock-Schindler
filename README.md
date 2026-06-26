@@ -16,6 +16,10 @@ ihre eigenen Arbeiten ebenfalls sichtbar zu machen.
 
 ## Unterrichtsmaterialien
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=white)
+
 Alle Unterrichtsmaterialien — für Informatik, Wirtschaft und Recht,
 Projektarbeit WR und Finanz- und Rechnungswesen — sind in der
 Organisation [SkriptenMk](https://github.com/SkriptenMk) zusammengefasst.
